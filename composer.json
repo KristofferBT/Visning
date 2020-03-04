@@ -1,0 +1,9 @@
+{
+    "require": {
+        "microsoft/application-insights": "*",
+        "dompdf/dompdf": "dev-master",
+        "microsoft/windowsazure": "^0.4",
+        "swiftmailer/swiftmailer": "@stable"
+        
+    }
+}
